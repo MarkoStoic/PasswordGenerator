@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    background-color: black;
+    margin-left: 10px;  
+    color: gray;
+    font-family:   Courier New, Courier, monospace
+}
+
+#h1 {
+    color: white;
+    size: 20px;
+    margin-bottom: -20px;
+    margin-top: 40px
+}
+
+#h2 {
+    color: greenyellow;
+    size: 20px;
+    margin-bottom: -10px
+}
+
+button {
+    background-color:  darkturquoise;
+    color: white;
+    border-radius: 3px;
+    border: none;
+    padding: 6px;
+    padding-inline-end: 15px;
+    padding-inline-start: 15px;
+}
+
+.passwords-container {
+    display:  flex
+}
+
+.passwords {
+    background-color:  teal ;
+    border: thick;
+    color: white;
+    font-style: bold;
+    border-radius: 3px;
+    margin: 20px;
+    padding: 4px;
+}
